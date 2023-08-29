@@ -23,7 +23,7 @@ Here is a brief explanation of the main contents of this repository:
     - Install the Python dependencies using the command: `pip install -r requirements.txt`.
 
 2. **Running Scripts**
-    - From the root directory, navigate to the `src` directory: `cd src/`.
+    - From the root directory, navigate to the `code` directory: `cd code/`.
     - Execute the main script: `python main.py`.
 
 ## Datasets
