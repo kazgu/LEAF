@@ -1,4 +1,4 @@
-# LEAF Framework: A Less Expert Annotation Framework
+# LEAF : A Less Expert Annotation Framework
 
 This repository contains the code and data used to train, test, and validate the models presented in our paper "A Less Expert Annotation Framework for Active Learning."
 
@@ -32,9 +32,6 @@ The datasets for this project are stored under the `data/` directory. Each datas
 
 Note: Be mindful that some of these datasets are large and may require significant memory when loaded into Python.
 
-## Models
-
-The trained models can be found in the `models/` directory. These models are saved in .h5 format and can be loaded using various machine learning libraries such as TensorFlow and Keras.
 
 ## Contributing
 
