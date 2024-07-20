@@ -1,4 +1,4 @@
-# LEAF : A Less Expert Annotation Framework
+# LEAF : A Less Expert Annotation Framework with Active Learning
 
 This repository contains the code and data used to train, test, and validate the models presented in our paper "A Less Expert Annotation Framework for Active Learning."
 
@@ -50,7 +50,22 @@ For any further inquiries or questions about our project, please contact us at h
 If you use our framework, datasets or implementations in your work, we encourage you to cite our paper:
 
 ```
-[Publication Details]
+@inproceedings{DBLP:conf/pakdd/MaoliniyaziMMP24,
+  author       = {Aishan Maoliniyazi and
+                  Chaohong Ma and
+                  Xiaofeng Meng and
+                  Yingtao Peng},
+  title        = {{LEAF:} {A} Less Expert Annotation Framework with Active Learning},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14647},
+  pages        = {369--384},
+  publisher    = {Springer},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/978-981-97-2259-4\_28},
+  doi          = {10.1007/978-981-97-2259-4\_28},
+  timestamp    = {Fri, 31 May 2024 21:05:19 +0200},
+  biburl       = {https://dblp.org/rec/conf/pakdd/MaoliniyaziMMP24.bib}
+}
 ```
 
 ---
